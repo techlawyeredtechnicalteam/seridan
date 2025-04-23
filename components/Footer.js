@@ -13,7 +13,7 @@ export default function Footer() {
                         height={100}
                         className="rounded-full"
                     />
-                    <h3 className="text-2xl font-garamond font-bold tracking-widest leading-tight mb-6">
+                    <h3 className="text-2xl text-yellow-400 font-garamond font-bold tracking-widest leading-tight mb-6">
                         SERIDAN PARTNERS
                     </h3>
                 </div>
