@@ -21,6 +21,7 @@ export default function Header() {
           <Link href="/about" className="relative group">About</Link>
           <Link href="/attorneys" className="relative group">Attorneys</Link>
           <Link href="/#practice-areas" className="relative group">Practice Areas</Link>
+          <Link href="/blog" className="relative group">Blog</Link>
           <Link href="/contact" className="relative group">Contact</Link>
         </nav>
 
@@ -40,6 +41,7 @@ export default function Header() {
           <Link href="/about" className="block">About</Link>
           <Link href="/attorneys" className="block">Attorneys</Link>
           <Link href="/#practice-areas" className="block">Practice Areas</Link>
+          <Link href="/blog" className="block">Blog</Link>
           <Link href="/contact" className="block">Contact</Link>
         </div>
       )}
