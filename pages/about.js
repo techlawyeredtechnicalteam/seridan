@@ -20,6 +20,7 @@ const fadeUp = {
   }),
 }
 
+
 const focusAreas = [
   {
     title: 'Litigation & Dispute Resolution',
